@@ -1,0 +1,36 @@
+.allCheckbox {
+    margin: 20px;
+    margin-left: 100px;
+    padding: 10px;
+
+}
+
+.list_items {
+    margin-left: 100px;
+    text-align: left;
+    align-items: flex-start;
+
+}
+
+.list_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: first baseline !important;
+    text-align: center;
+
+}
+
+.box_container {
+    align-items: center;
+}
+.showmore_text{
+    text-align: center;
+    margin-left: 80px;
+    color: rgb(82, 153, 235);
+    
+}
+.bottomSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
